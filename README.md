@@ -54,20 +54,7 @@ Implementation process:
 5. AI predicts product demand.
 6. Buyers track deliveries.
 
-AgriConnect – Working Flow
-Farmer Registration
-
-
-Upload Agricultural Products
-
-
-Buyer Searches and Places Order
-
-
-Order and Logistics Management
-
-
-Delivery to Buyer
+![alt text](<AgriConnect Workflow Infographic-1.png>)
 
 ## Feasibility and Viability
 1. Analysis of the feasibility of the idea
